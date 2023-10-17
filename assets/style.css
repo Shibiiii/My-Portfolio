@@ -86,3 +86,9 @@ footer {
     color: var(--grey);
     background-color: var(--purple);
 }
+
+@media screen and (max-width: 992px){}
+
+@media screen and (max-width: 768px){}
+
+@media screen and (max-width: 576px){}
